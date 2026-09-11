@@ -61,8 +61,8 @@
         <mxCell id="B_ahIY3rAf3pN6Dh3jbA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B_ahIY3rAf3pN6Dh3jbA-19" target="B_ahIY3rAf3pN6Dh3jbA-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="245" width="120" height="60" as="geometry" />
+        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-22" value="线性规划求解" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="245" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
