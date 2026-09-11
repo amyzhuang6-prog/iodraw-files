@@ -50,6 +50,20 @@
         <mxCell id="B_ahIY3rAf3pN6Dh3jbA-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;strokeColor=default;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="220" width="50" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B_ahIY3rAf3pN6Dh3jbA-19" target="B_ahIY3rAf3pN6Dh3jbA-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-19" value="理论比较与数值检验" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B_ahIY3rAf3pN6Dh3jbA-19" target="B_ahIY3rAf3pN6Dh3jbA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_ahIY3rAf3pN6Dh3jbA-22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;spacingTop=-4;spacing=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
