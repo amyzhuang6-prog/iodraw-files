@@ -22,7 +22,7 @@
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MxnddM6lmMFv6Z4IlT3-5" target="-MxnddM6lmMFv6Z4IlT3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-MxnddM6lmMFv6Z4IlT3-5" value="&lt;b&gt;日前计划&lt;/b&gt;&lt;div&gt;核心决策、执行后不再修改&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-5" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;日前计划&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;核心决策、执行后不再修改&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="354" y="260" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-7" value="情景输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
