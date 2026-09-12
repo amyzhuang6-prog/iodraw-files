@@ -17,22 +17,31 @@
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-4" value="滚动预测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="108" width="70" height="30" as="geometry" />
+          <mxGeometry x="270" y="108.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MxnddM6lmMFv6Z4IlT3-5" target="-MxnddM6lmMFv6Z4IlT3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-5" value="&lt;b&gt;日前计划&lt;/b&gt;&lt;div&gt;核心决策、执行后不再修改&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="354" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="354" y="260" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-7" value="情景输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="178" width="70" height="30" as="geometry" />
+          <mxGeometry x="414" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MxnddM6lmMFv6Z4IlT3-10" target="-MxnddM6lmMFv6Z4IlT3-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-10" value="&lt;b&gt;情景补救&lt;/b&gt;&lt;div&gt;针对当日具体情况做出决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="135" y="222.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="130" y="210" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="-MxnddM6lmMFv6Z4IlT3-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.准备阶段&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="90" width="180" height="120" as="geometry" />
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;头部：准备阶段&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="108" width="210" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;中部：决策与执行&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="239.5" width="210" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-15" value="&lt;b&gt;日内滚动执行&lt;/b&gt;&lt;div&gt;两阶段期望成本最小化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
