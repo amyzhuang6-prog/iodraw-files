@@ -28,8 +28,11 @@
         <mxCell id="-MxnddM6lmMFv6Z4IlT3-7" value="情景输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="404" y="178" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-MxnddM6lmMFv6Z4IlT3-10" value="情景补救" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="135" y="225" width="120" height="60" as="geometry" />
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-10" value="&lt;b&gt;情景补救&lt;/b&gt;&lt;div&gt;针对当日具体情况做出决策&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="135" y="222.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-MxnddM6lmMFv6Z4IlT3-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.准备阶段&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
