@@ -66,8 +66,11 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-28" value="&lt;b&gt;得到全天计划&lt;/b&gt;&lt;div&gt;全天锁定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-29">
           <mxGeometry x="90" y="125" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-35" target="wMfeJ_-n_nc5lhHqMKS_-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-35" value="仅执行当前十分钟动作，更新实际储电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-36" target="wMfeJ_-n_nc5lhHqMKS_-37">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-39" value="当天是否结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="430" y="780" width="90" height="30" as="geometry" />
+          <mxGeometry x="480" y="585" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
