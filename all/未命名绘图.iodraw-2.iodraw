@@ -98,6 +98,9 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-39" value="当天是否结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
           <mxGeometry x="229" y="62.5" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-49" value="否，进入下一时段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="568" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
