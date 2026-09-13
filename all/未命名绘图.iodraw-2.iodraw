@@ -68,10 +68,10 @@
           <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-25" value="更新联合情景，以实际SOC为初态重新优化" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="510" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-26" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="620" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="csVuI23NXXX6fSSk3vKc-26" value="更新未执行计划" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
