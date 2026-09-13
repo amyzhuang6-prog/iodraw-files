@@ -48,14 +48,14 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.706;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-10" target="wMfeJ_-n_nc5lhHqMKS_-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-28" value="&lt;b&gt;得到全天计划&lt;/b&gt;&lt;div&gt;全天锁定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="535" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-29" value="Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="590" y="400" width="290" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-26" value="&lt;b&gt;联合求解两阶段随机规划&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-29">
-          <mxGeometry x="70" y="50" width="170" height="60" as="geometry" />
+          <mxGeometry x="50" y="50" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-28" value="&lt;b&gt;得到全天计划&lt;/b&gt;&lt;div&gt;全天锁定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-29">
+          <mxGeometry x="100" y="145" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
