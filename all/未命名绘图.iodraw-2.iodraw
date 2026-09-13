@@ -16,7 +16,10 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-4" value="历史预测与情景构造" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="660" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-3" target="wMfeJ_-n_nc5lhHqMKS_-6">
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-3" target="wMfeJ_-n_nc5lhHqMKS_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-3" target="wMfeJ_-n_nc5lhHqMKS_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-3" value="读取当日前的历史负荷与光伏数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -26,7 +29,7 @@
           <mxGeometry x="150" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-10" value="岭回归预测当天负荷与光伏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-11" value="同日误差整体配对，构造联合情景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
