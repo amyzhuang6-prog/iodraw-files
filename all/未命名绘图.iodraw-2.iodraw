@@ -115,11 +115,14 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-55" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
           <mxGeometry x="264" y="98" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-51" target="wMfeJ_-n_nc5lhHqMKS_-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-51" value="核算当天实际费用，记录运行结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="700" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-52" value="汇总数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="860" width="106" height="40" as="geometry" />
+          <mxGeometry x="620" y="700" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-39" target="wMfeJ_-n_nc5lhHqMKS_-51">
           <mxGeometry relative="1" as="geometry" />
