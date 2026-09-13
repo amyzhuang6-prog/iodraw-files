@@ -64,8 +64,8 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-23" value="当前是否为6、12或18点？" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="620" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="csVuI23NXXX6fSSk3vKc-24" value="读取最新预报，因果择优并修正剩余预测" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
