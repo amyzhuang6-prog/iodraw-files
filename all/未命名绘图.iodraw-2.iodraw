@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="F6j_VgN5oTgeDz4WH0Am">
-    <mxGraphModel dx="345" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="527" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-2" value="固定分时电价、储能参数与实际日初电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-4" value="历史预测与情景构造" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="360" height="270" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-3" target="wMfeJ_-n_nc5lhHqMKS_-6">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +38,10 @@
           <mxGeometry x="360" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-11" value="同日误差整体配对，构造联合情景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="210" height="40" as="geometry" />
+          <mxGeometry x="230" y="545" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.706;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-10" target="wMfeJ_-n_nc5lhHqMKS_-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-25" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
