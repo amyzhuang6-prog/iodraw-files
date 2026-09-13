@@ -10,14 +10,17 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-1" value="读取数据，使用计划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="csVuI23NXXX6fSSk3vKc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="csVuI23NXXX6fSSk3vKc-2" target="csVuI23NXXX6fSSk3vKc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-2" value="负载-光伏-计划购电量是否＞0？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-3" value="&lt;b&gt;放电补缺&lt;/b&gt;&lt;div&gt;剩余缺口紧急购电&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-4" value="&lt;b&gt;富余电量充电&lt;/b&gt;&lt;div&gt;超出储电量上限部分归入弃电&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="170" height="60" as="geometry" />
+          <mxGeometry x="410" y="250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-5" value="更行实际SOC，记录本段执行结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
