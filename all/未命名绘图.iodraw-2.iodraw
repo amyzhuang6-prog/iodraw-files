@@ -80,28 +80,28 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-28" target="wMfeJ_-n_nc5lhHqMKS_-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-46" value="日内滚动执行" style="swimlane;startSize=23;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;shadow=1;rotation=15;" vertex="1" parent="1">
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-46" value="日内滚动执行" style="swimlane;startSize=23;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="670" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-39" value="当天是否结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="241" y="28" width="90" height="30" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-39" value="当天是否结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="229" y="42.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-37" value="&lt;b&gt;优化剩余时段储能与紧急购电&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="486" y="168" width="120" height="60" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-37" value="&lt;b&gt;优化剩余时段储能与紧急购电&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="505" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-36" value="读取当前实际数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="507" y="101" width="120" height="35" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-36" value="读取当前实际数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="505" y="40" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wMfeJ_-n_nc5lhHqMKS_-46" source="wMfeJ_-n_nc5lhHqMKS_-36" target="wMfeJ_-n_nc5lhHqMKS_-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wMfeJ_-n_nc5lhHqMKS_-46" source="wMfeJ_-n_nc5lhHqMKS_-39" target="wMfeJ_-n_nc5lhHqMKS_-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="467" y="123" as="sourcePoint" />
+            <mxPoint x="470" y="87.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-35" value="仅执行当前十分钟动作，更新实际储电量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="42" y="-13" width="120" height="60" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-35" value="仅执行当前十分钟动作，更新实际储电量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wMfeJ_-n_nc5lhHqMKS_-46" source="wMfeJ_-n_nc5lhHqMKS_-37" target="wMfeJ_-n_nc5lhHqMKS_-35">
           <mxGeometry relative="1" as="geometry" />
@@ -109,11 +109,11 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wMfeJ_-n_nc5lhHqMKS_-46" source="wMfeJ_-n_nc5lhHqMKS_-35" target="wMfeJ_-n_nc5lhHqMKS_-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-49" value="否，进入下一时段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="343" y="78" width="120" height="30" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-49" value="否，进入下一时段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="340" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-55" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
-          <mxGeometry x="261" y="84" width="40" height="30" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-55" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
+          <mxGeometry x="264" y="98" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-51" target="wMfeJ_-n_nc5lhHqMKS_-52">
           <mxGeometry relative="1" as="geometry" />
