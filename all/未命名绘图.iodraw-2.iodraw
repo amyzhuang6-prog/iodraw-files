@@ -7,8 +7,8 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-1" value="更新历史数据，传递实际日末储电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-2" value="固定分时电价、储能参数与实际日初电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
