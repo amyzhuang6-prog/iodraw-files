@@ -87,7 +87,7 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-28" target="wMfeJ_-n_nc5lhHqMKS_-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wMfeJ_-n_nc5lhHqMKS_-36">
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-39" target="wMfeJ_-n_nc5lhHqMKS_-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="597.5" as="sourcePoint" />
           </mxGeometry>
@@ -97,12 +97,6 @@
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-39" value="当天是否结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-46">
           <mxGeometry x="229" y="62.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wMfeJ_-n_nc5lhHqMKS_-46" source="wMfeJ_-n_nc5lhHqMKS_-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="78" as="sourcePoint" />
-            <mxPoint x="360" y="77.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
