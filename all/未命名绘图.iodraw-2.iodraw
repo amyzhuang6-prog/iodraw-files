@@ -55,11 +55,11 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-20" value="读取历史数据与零点光伏预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="630" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-21" value="生成预测" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="csVuI23NXXX6fSSk3vKc-21" value="生成负载预测、择优光伏预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
