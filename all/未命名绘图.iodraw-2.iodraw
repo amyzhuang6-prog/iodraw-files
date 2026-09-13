@@ -11,7 +11,7 @@
           <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-2" value="固定分时电价、储能参数与实际日初电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-4" value="历史预测与情景构造" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="660" width="360" height="270" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="110" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-10" value="岭回归预测当天负荷与光伏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="390" width="160" height="40" as="geometry" />
+          <mxGeometry x="300" y="290" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
