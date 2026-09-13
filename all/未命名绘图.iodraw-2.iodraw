@@ -16,6 +16,9 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-3" value="读取当日前的历史负荷与光伏数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-4">
           <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-6" value="获取历史样本外预测误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-4">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
