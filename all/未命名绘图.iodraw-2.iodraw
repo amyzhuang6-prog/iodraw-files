@@ -10,7 +10,10 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-2" value="负载-光伏-计划购电量是否＞0？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="csVuI23NXXX6fSSk3vKc-3" value="放电补缺&lt;div&gt;剩余缺口紧急购电&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csVuI23NXXX6fSSk3vKc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
