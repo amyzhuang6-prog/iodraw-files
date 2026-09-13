@@ -102,7 +102,10 @@
           <mxGeometry x="480" y="568" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-51" value="核算当天实际费用，记录运行结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="860" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="860" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
