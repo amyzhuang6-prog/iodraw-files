@@ -70,10 +70,13 @@
           <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-36" value="读取当前实际数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-37" value="优化剩余时段储能与紧急购电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="wMfeJ_-n_nc5lhHqMKS_-28" target="wMfeJ_-n_nc5lhHqMKS_-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
