@@ -66,6 +66,9 @@
         <mxCell id="wMfeJ_-n_nc5lhHqMKS_-28" value="&lt;b&gt;得到全天计划&lt;/b&gt;&lt;div&gt;全天锁定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wMfeJ_-n_nc5lhHqMKS_-29">
           <mxGeometry x="90" y="125" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wMfeJ_-n_nc5lhHqMKS_-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
