@@ -56,10 +56,10 @@
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-21" value="生成负载预测、择优光伏预报" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-22" value="构造12个联合情景，求解两阶段随即规划" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="660" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-23" value="当前是否为6、12或18点？" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="560" y="780" width="120" height="60" as="geometry" />
