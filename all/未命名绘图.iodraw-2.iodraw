@@ -25,8 +25,8 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-4" value="&lt;b&gt;富余电量充电&lt;/b&gt;&lt;div&gt;超出储电量上限部分归入弃电&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="270" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-5" value="&lt;b&gt;更行实际SOC，记录本段执行结果&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="190" height="40" as="geometry" />
+        <mxCell id="csVuI23NXXX6fSSk3vKc-5" value="&lt;b&gt;更行实际SOC，记录本段执行结果&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-6" value="当天144段是否执行完毕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="540" width="120" height="60" as="geometry" />
