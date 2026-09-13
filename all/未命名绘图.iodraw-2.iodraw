@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="csVuI23NXXX6fSSk3vKc-1" value="读取数据，使用计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="150" height="40" as="geometry" />
+          <mxGeometry x="285" y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="csVuI23NXXX6fSSk3vKc-2" value="负载-光伏-计划购电量是否＞0？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="csVuI23NXXX6fSSk3vKc-5" value="更行实际SOC，记录本段执行结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csVuI23NXXX6fSSk3vKc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="csVuI23NXXX6fSSk3vKc-6" value="当天144段是否执行完毕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
